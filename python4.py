@@ -7,3 +7,7 @@ import math
 number=int(input("enter a number"))
 square_root=math.sqrt(number)
 print("Square_root of ",number,':',square_root)
+factorial=math.factorial(number)
+print("factorial of",number,":",factorial)
+power=math.pow(number,2)
+print(number,"raised to power 2")
