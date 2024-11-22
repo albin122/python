@@ -11,4 +11,7 @@ for i in combined_list:
 even_list.sort()
 odd_list.sort()
 mergedlist=even_list+odd_list
-print(mergedlist)
+print("list1",list1)
+print("list2",list2)
+print("combined_list",combined_list)
+print("mergedlist",mergedlist)
