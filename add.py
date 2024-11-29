@@ -11,4 +11,4 @@ def add(num1,num2):
 num1=int(input(" enter the number 1 "))
 num2=int(input("enter the number 2 "))
 add(num1,num2)
-print(add(num1,num2))
+print("sum of the two numbers",num1 ,"and",num2,"is:",add(num1,num2))
